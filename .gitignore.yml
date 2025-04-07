@@ -38,4 +38,7 @@
 .idea/
 .fastRequest/
 .DS_Store
-  *.idea/
+  **/.idea/
+  
+  **/.mvn
+  **/.mvnw
